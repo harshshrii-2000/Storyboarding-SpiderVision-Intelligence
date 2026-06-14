@@ -19,7 +19,7 @@ SpiderVision Intelligence is a platform that helps users gather Open Source Inte
 - **Frame 6 – Report Generation**: The user receives a detailed intelligence report and takes appropriate action based on the findings.
 
 ## Lucidchart Shareable Link
-[Paste your Lucidchart Shareable Link here]
+[Lucidchart Shareable Link](https://github.com/harshshrii-2000/Storyboarding-SpiderVision-Intelligence/blob/main/CTDT-Galgotias%20University-Batch%20No%205-2025-29-Task%206-Storyboarding/Storyboard.png?raw=true)
 
 ## Student Details
 - **Name**: Harshit Shrivastav
